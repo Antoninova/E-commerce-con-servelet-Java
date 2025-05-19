@@ -1,7 +1,7 @@
 # E-commerce-con-servelet-Java
 
 ## Cos’è il progetto
-Un negozio online di calzature realizzato con **Java Servlet** e **Gradle (Gradlew)**. Gli utenti possono navigare tra le card dinamiche dei prodotti, registrarsi, effettuare il login e gestire un carrello per completare l’acquisto. Dal lato amministratore, è possibile creare codici coupon e promozioni per festività o eventi speciali.
+Un negozio online di scarpe realizzato con **Java Servlet** e **Gradle (Gradlew)**. Gli utenti possono navigare tra le card dinamiche dei prodotti, registrarsi, effettuare il login e gestire un carrello per completare l’acquisto. Dal lato amministratore, è possibile creare codici coupon e promozioni per festività o eventi speciali.
 
 > ⚠️ **Nota:** non è possibile ospitare questo progetto su GitHub Pages, in quanto utilizza un _build system_ Gradle e richiede un _servlet container_ (es. Tomcat).
 
