@@ -46,9 +46,10 @@ L’applicazione comprende:
 
 ## Link al progetto
 
-- [Codice sorgente su GitHub](https://github.com/Antoninova/ECommerce-Servlets)  
+- [Panoramica su GitHub](https://github.com/Antoninova/ECommerce-Servlets)
+- [Codice Sorgente](https://drive.google.com/file/d/1Vz5Le5kSGHmIbZHjAhaMtQK3jNk0WYVb/view?usp=sharing)
 - ⚙️ **Deploy locale:**  
   1. Clona la repo  
   2. `./gradlew build`  
   3. Copia il WAR in `webapps/` di Tomcat  
-  4. Avvia Tomcat e visita `http://localhost:8080/ecommerce`  
+  4. Avvia Tomcat e visita `http://localhost:8080/ecommerce`
